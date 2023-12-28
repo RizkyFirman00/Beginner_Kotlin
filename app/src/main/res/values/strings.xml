@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">beginner</string>
+    <string name="sc1">DAFTAR</string>
+    <string name="sc2">UNIVERSITAS</string>
+    <string name="sc3">Di Indonesia</string>
+    <string name="daftar">Daftar</string>
+    <string name="universitas">Universitas</string>
+    <string name="profil_saya">Profil Saya</string>
+    <string name="daftar_universitas">Daftar Universitas</string>
+</resources>
